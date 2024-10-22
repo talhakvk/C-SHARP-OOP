@@ -23,12 +23,12 @@ namespace FlappyBirdGame
 
         private void pictureBox2_Click(object sender, EventArgs e)
         {
-            // Burada herhangi bir işlem yok
+            
         }
 
         private void label1_Click(object sender, EventArgs e)
         {
-            // Burada herhangi bir işlem yok
+            
         }
 
         private void gameTimerEvent(object sender, EventArgs e)
