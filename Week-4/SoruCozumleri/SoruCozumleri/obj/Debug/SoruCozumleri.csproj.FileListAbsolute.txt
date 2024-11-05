@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\SoruCozumleri\SoruCozumleri\bin\Debug\SoruCozumleri.exe.config
+C:\Users\HP\source\repos\SoruCozumleri\SoruCozumleri\bin\Debug\SoruCozumleri.exe
+C:\Users\HP\source\repos\SoruCozumleri\SoruCozumleri\bin\Debug\SoruCozumleri.pdb
+C:\Users\HP\source\repos\SoruCozumleri\SoruCozumleri\obj\Debug\SoruCozumleri.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\SoruCozumleri\SoruCozumleri\obj\Debug\SoruCozumleri.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\SoruCozumleri\SoruCozumleri\obj\Debug\SoruCozumleri.exe
+C:\Users\HP\source\repos\SoruCozumleri\SoruCozumleri\obj\Debug\SoruCozumleri.pdb
