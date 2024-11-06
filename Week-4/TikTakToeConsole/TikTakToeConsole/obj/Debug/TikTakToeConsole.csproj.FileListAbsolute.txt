@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\TikTakToeConsole\TikTakToeConsole\bin\Debug\TikTakToeConsole.exe.config
+C:\Users\HP\source\repos\TikTakToeConsole\TikTakToeConsole\bin\Debug\TikTakToeConsole.exe
+C:\Users\HP\source\repos\TikTakToeConsole\TikTakToeConsole\bin\Debug\TikTakToeConsole.pdb
+C:\Users\HP\source\repos\TikTakToeConsole\TikTakToeConsole\obj\Debug\TikTakToeConsole.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\TikTakToeConsole\TikTakToeConsole\obj\Debug\TikTakToeConsole.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\TikTakToeConsole\TikTakToeConsole\obj\Debug\TikTakToeConsole.exe
+C:\Users\HP\source\repos\TikTakToeConsole\TikTakToeConsole\obj\Debug\TikTakToeConsole.pdb
