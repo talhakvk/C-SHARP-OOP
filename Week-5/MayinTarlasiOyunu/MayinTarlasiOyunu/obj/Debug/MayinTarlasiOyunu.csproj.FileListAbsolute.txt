@@ -1,0 +1,7 @@
+C:\Users\talha\source\repos\MayinTarlasiOyunu\MayinTarlasiOyunu\bin\Debug\MayinTarlasiOyunu.exe.config
+C:\Users\talha\source\repos\MayinTarlasiOyunu\MayinTarlasiOyunu\bin\Debug\MayinTarlasiOyunu.exe
+C:\Users\talha\source\repos\MayinTarlasiOyunu\MayinTarlasiOyunu\bin\Debug\MayinTarlasiOyunu.pdb
+C:\Users\talha\source\repos\MayinTarlasiOyunu\MayinTarlasiOyunu\obj\Debug\MayinTarlasiOyunu.csprojAssemblyReference.cache
+C:\Users\talha\source\repos\MayinTarlasiOyunu\MayinTarlasiOyunu\obj\Debug\MayinTarlasiOyunu.csproj.CoreCompileInputs.cache
+C:\Users\talha\source\repos\MayinTarlasiOyunu\MayinTarlasiOyunu\obj\Debug\MayinTarlasiOyunu.exe
+C:\Users\talha\source\repos\MayinTarlasiOyunu\MayinTarlasiOyunu\obj\Debug\MayinTarlasiOyunu.pdb
