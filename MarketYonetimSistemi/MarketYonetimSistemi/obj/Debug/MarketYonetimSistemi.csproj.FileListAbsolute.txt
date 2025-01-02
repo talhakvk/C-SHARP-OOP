@@ -1,0 +1,7 @@
+C:\Users\talha\source\repos\MarketYonetimSistemi\MarketYonetimSistemi\bin\Debug\MarketYonetimSistemi.exe.config
+C:\Users\talha\source\repos\MarketYonetimSistemi\MarketYonetimSistemi\bin\Debug\MarketYonetimSistemi.exe
+C:\Users\talha\source\repos\MarketYonetimSistemi\MarketYonetimSistemi\bin\Debug\MarketYonetimSistemi.pdb
+C:\Users\talha\source\repos\MarketYonetimSistemi\MarketYonetimSistemi\obj\Debug\MarketYonetimSistemi.csprojAssemblyReference.cache
+C:\Users\talha\source\repos\MarketYonetimSistemi\MarketYonetimSistemi\obj\Debug\MarketYonetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\talha\source\repos\MarketYonetimSistemi\MarketYonetimSistemi\obj\Debug\MarketYonetimSistemi.exe
+C:\Users\talha\source\repos\MarketYonetimSistemi\MarketYonetimSistemi\obj\Debug\MarketYonetimSistemi.pdb
